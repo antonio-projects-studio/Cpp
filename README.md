@@ -3,10 +3,11 @@
 ## Содержание
 
 - [Контесты](./Contests/)
-  - [Geometry](./Contests/Geometry/README.md)
-    - [RMQ/RSQ](./Contests/RmqRsq/README.md)
-    - [STL](./Contests/Stl/README.md)
-    - [Templates and Bigint](./Contests/TemplatesBigint/README.md)
+  - [Geometry](./Contests/Geometry/)
+  - [RMQ/RSQ](./Contests/RmqRsq/)
+  - [STL](./Contests/Stl/)
+  - [Templates and Bigint](./Contests/Templates&Bigint/)
+  - [Vk](./Contests/Vk/)
 
 - [Алгоритмы](./ProgramFiles/algorithms/)
   - In-Place Merge Sort
